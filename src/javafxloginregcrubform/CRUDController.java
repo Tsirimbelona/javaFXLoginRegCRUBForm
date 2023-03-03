@@ -25,7 +25,7 @@ import javafx.scene.control.TextField;
  * @author Jean_Nico .T
  */
 public class CRUDController implements Initializable {
-
+    
     @FXML
     private TextField _studentNumber;
 
@@ -82,6 +82,6 @@ public class CRUDController implements Initializable {
     @Override
     public void initialize(URL location, ResourceBundle resources) {
         throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
-    }
+}
 
 }
